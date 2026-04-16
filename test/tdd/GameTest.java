@@ -47,4 +47,18 @@ class GameTest {
 		}
 		assertEquals(game.score(), 30);
 	}
+	
+	@Test
+	void ITER5() {
+		game.roll(7);
+		System.out.println(game.score());
+		game.roll(3);
+		System.out.println(game.score());
+		game.roll(4);
+		System.out.println(game.score());
+		for (int i = 0; i < 20; i++) {
+			game.roll(0);
+		}
+		assertEquals(game.score(), 18);
+	}
 }
