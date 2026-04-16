@@ -1,8 +1,8 @@
 # Identification du projet
 
-### NOM :
-### Prénom :
-### Groupe de TP :
+### NOM : SALLEY
+### Prénom : HUGO
+### Groupe de TP : A22
 (Éditez ce README.md et remplacez `[ ]` par `[x]` (*x* minuscule) dans la bonne ligne ci-dessous)
 - [ ] A11
 - [ ] A12
@@ -13,6 +13,7 @@
 - [ ] B21
 - [ ] B22
 
+### Iterations
 - [ ] Entrée vide | Score attendu 0 -> ITER1
 - [ ] Entrée vide | répéter 20 fois | Score attendu 0 -> ITER2
 - [ ] Entrée 1 | répéter 20 fois | Score attendu 20 -> ITER3
