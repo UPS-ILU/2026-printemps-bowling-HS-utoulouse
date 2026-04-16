@@ -14,8 +14,8 @@
 - [ ] B22
 
 ### Iterations
-- [ ] Entrée vide | Score attendu 0 -> ITER1
-- [ ] Entrée vide | répéter 20 fois | Score attendu 0 -> ITER2
+- [x] Entrée vide | Score attendu 0 -> ITER1
+- [x] Entrée vide | répéter 20 fois | Score attendu 0 -> ITER2
 - [ ] Entrée 1 | répéter 20 fois | Score attendu 20 -> ITER3
 - [ ] Entrée 1 | répéter 10 fois | Entrée 2 | répéter 10 fois | Score attendu 30 -> ITER4
 - [ ] Entrée 7,3,4 | Entrée 0 | répéter 17 fois | Score attendu 18 -> ITER5

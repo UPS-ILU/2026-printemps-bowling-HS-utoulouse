@@ -1,12 +1,14 @@
 package tdd;
 
 public class Game {
+	
+	int total = 0;
 
 	void roll(int nbQuilles) {
-		
+		total += nbQuilles;
 	}
 	
 	int score() {
-		return 0;
+		return total;
 	}
 }
